@@ -1,1 +1,1 @@
-worker : python run_bot.py
+worker : python -m alfalfa-bot.run_bot
