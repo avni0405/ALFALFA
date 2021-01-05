@@ -1,5 +1,4 @@
 discord.py
-googleapiclient
 decouple
 josn
 matplotlib.pyplot
