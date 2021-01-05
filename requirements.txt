@@ -1,5 +1,4 @@
 discord.py
 python-decouple
-json
 matplotlib.pyplot
 asyncio
