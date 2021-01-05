@@ -1,4 +1,4 @@
 discord.py
 python-decouple
-matplotlib.pyplot
+matplotlib
 asyncio
